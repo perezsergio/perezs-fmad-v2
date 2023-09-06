@@ -1,6 +1,7 @@
 
 ## Exclude folder
 exclude/
+data/
 
 
 # Byte-compiled / optimized / DLL files
